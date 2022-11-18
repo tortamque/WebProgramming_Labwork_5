@@ -1,0 +1,12 @@
+ol{
+    justify-self: right;
+}
+
+.right_top_box{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+li{
+    margin-bottom: 2vh;
+}
